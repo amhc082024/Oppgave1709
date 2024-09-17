@@ -12,3 +12,4 @@ C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\refint\O
 C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.pdb
 C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.genruntimeconfig.cache
 C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\ref\Oppgave1709.dll
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.sourcelink.json
