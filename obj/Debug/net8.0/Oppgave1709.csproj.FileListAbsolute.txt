@@ -1,0 +1,14 @@
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.AssemblyInfoInputs.cache
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.AssemblyInfo.cs
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.csproj.CoreCompileInputs.cache
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\bin\Debug\net8.0\Oppgave1709.exe
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\bin\Debug\net8.0\Oppgave1709.deps.json
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\bin\Debug\net8.0\Oppgave1709.runtimeconfig.json
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\bin\Debug\net8.0\Oppgave1709.dll
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\bin\Debug\net8.0\Oppgave1709.pdb
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.dll
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\refint\Oppgave1709.dll
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.pdb
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\Oppgave1709.genruntimeconfig.cache
+C:\Users\joblo\OneDrive\Skrivebord\backend\Oppgave1709\obj\Debug\net8.0\ref\Oppgave1709.dll
